@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+    <pyqgis_plugin name="HelloMarsTest" version="0.1">
+        <description><![CDATA[Publish and share your QGIS maps on the Web via Lizmap Web Client, by 3liz.com]]></description>
+        <version>0.1</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage>https://github.com/CapaBlanca92</homepage>
+        <file_name>HelloMarsTest.0.1.zip</file_name>
+        <icon>HelloMarsTest/icon.png</icon>
+        <author_name>CapaBlanca</author_name>
+        <download_url>https://github.com/CapaBlanca92/qgis-plugin-hellomars/raw/refs/heads/main/HelloMarsTest.0.1.zip</download_url>
+        <uploaded_by>CapaBlanca</uploaded_by>
+        <create_date>2024-11-08</create_date>
+        <experimental>True</experimental>
+        <deprecated>False</deprecated>
+        <tracker>https://github.com/CapaBlanca92/qgis-plugin-hellomars/issues</tracker>
+        <repository>https://github.com/CapaBlanca92/qgis-plugin-hellomars.git</repository>
+        <tags>online,server,web,webgis,webservice,webmapping,mobile,publication,wms,wfs,wps,internet,cloud</tags>
+    </pyqgis_plugin>
+</plugins>
