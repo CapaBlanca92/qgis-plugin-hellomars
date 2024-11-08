@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/hello_mars_test" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
